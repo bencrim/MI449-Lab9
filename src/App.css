@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style-type: none;
+}
+
+.game {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin: 0 auto;
+}
+
+h3 {
+  margin: 0 auto;
+}
+
+p {
+  margin: 0 auto;
+}
+
+button {
+  margin-top: 10px;
+}
+
